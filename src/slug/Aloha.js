@@ -19,8 +19,8 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
+            Nueva aplicacion super top
+      
           </h3>
           <p>
             Mudahkan segala urursan dengan laravel apps sebuah technology modern
