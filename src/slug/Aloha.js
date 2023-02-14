@@ -18,10 +18,10 @@ const Aloha = () => (
               </a>
             </strong>
           </h1>
-          <h3>
+          <h4>
             Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan. Modified again. 
-          </h3>
+            laravel php artisan.  
+          </h4>
           <p>
             Chalaaaaa es chalaaaaa no importa lo que suceda 
           </p>
