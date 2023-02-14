@@ -20,7 +20,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-          cashier application for shops, restaurants and
+          cafes, with laravel php artisan
       
           </h3>
           <p>
