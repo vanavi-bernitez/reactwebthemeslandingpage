@@ -20,7 +20,7 @@ const Aloha = () => (
           </h1>
           <h3>
             Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
+            laravel php artisan. Modified again. 
           </h3>
           <p>
             Chalaaaaa es chalaaaaa no importa lo que suceda 
