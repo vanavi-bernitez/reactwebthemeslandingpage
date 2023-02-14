@@ -20,7 +20,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-          new super top app
+          cafes, with laravel php artisan
       
           </h3>
           <p>
