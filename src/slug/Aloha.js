@@ -14,12 +14,12 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Laravel Apps
+                Laravel Ap
               </a>
             </strong>
           </h1>
           <h3>
-            Nueva aplicacion super top
+          new super top app
       
           </h3>
           <p>
