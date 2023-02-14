@@ -20,7 +20,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-          new super top app
+          cashier application for shops, restaurants and
       
           </h3>
           <p>
