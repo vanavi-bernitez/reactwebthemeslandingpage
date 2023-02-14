@@ -14,19 +14,16 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Laravel Apps
+                ANDA LA OSA NENE
               </a>
             </strong>
           </h1>
-          <h3>
+          <h4>
             Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
-          </h3>
+            laravel php artisan.  
+          </h4>
           <p>
-            Mudahkan segala urursan dengan laravel apps sebuah technology modern
-            website applikasi untuk kebutuhan pembukuan dan mempercepat
-            transaksi include website untuk media promo online bagi bisnis dan
-            usaha mu.
+            Chalaaaaa es chalaaaaa no importa lo que suceda 
           </p>
           <p>Pelajari dan download e-catalaog dibawah ini</p>
           <a
